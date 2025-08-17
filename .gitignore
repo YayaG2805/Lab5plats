@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+**/build/
+.cxx/
+
+# Android/keys
+local.properties
+**/*.jks
+**/*.keystore
+
+# IDE
+.idea/
+*.iml
+
+# Outputs
+*.apk
+*.aab
+*.log
